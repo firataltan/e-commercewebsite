@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+4FVAJ5m7Gs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daraa\\Documents\\asp_netcore\\shopapp\\shopapp.entity\\shopapp.entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daraa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\daraa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
